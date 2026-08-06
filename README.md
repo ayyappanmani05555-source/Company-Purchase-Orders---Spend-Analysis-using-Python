@@ -73,6 +73,28 @@ Imported the cleaned Excel dataset into Power BI and created:
 4. Calculated Columns
 5. Interactive Dashboard
 
-## 4. Dashboard Interactive Features
+## 4. Dashboard Interactive
 
-- <a href="
+- <a href="https://github.com/ayyappanmani05555-source/Company-Purchase-Orders---Spend-Analysis-using-Python/blob/main/company%20requirment%20purchase%20aypz.pbix">view<a/>
+
+## 5. Project Insights
+1. A small number of suppliers accounted for the majority of total procurement spending.
+2. Certain product categories required frequent purchasing due to high demand.
+3. Monthly analysis revealed periods of increased purchasing activity.
+4. Some suppliers consistently delivered larger order quantities, making them key procurement partners.
+5. Purchase costs varied significantly across categories, highlighting opportunities for cost optimization.
+6. Interactive filtering enabled quick identification of purchasing trends by supplier, product, and time period.
+
+## 6. Business Impact
+This project provides several business benefits:
+1. Improved visibility into procurement performance.
+2. Better supplier evaluation and relationship management.
+3. Identification of high-cost products and spending patterns.
+4. Support for inventory planning and demand forecasting.
+5. Faster reporting through automated dashboards.
+6. Reduced manual reporting effort.
+7. Enhanced decision-making using real-time KPIs.
+8. Increased operational efficiency through data-driven procurement strategies.
+
+## 7. Final Conclusion
+The Purchase Analysis Dashboard demonstrates a complete end-to-end data analytics workflow using Microsoft Excel, Python, and Power BI. Python was used for data cleaning, preprocessing, and exploratory analysis; Excel supported structured data management and validation; and Power BI transformed the processed data into an interactive dashboard with dynamic KPIs and visualizations. The project enables procurement teams to monitor purchasing performance, evaluate suppliers, optimize costs, and make informed business decisions. It showcases practical skills in data science, business intelligence, and dashboard development.
